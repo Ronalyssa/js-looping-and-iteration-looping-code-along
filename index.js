@@ -1,6 +1,5 @@
 // Code your solutions in this file
 const namesArray = ["Lisa", "Kaitlin", "Jan"];
-const event = "surprise";
 
 function writeCards ( namesArray, event ) {
     let thankYouCards = [];
